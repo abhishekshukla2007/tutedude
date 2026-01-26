@@ -4,4 +4,4 @@ fname = input("Enter your first name: ")
 lname = input("Enter your last name: ")
 
 #Performing concat of fname and lname and printing results
-print("Hello, ", fname+' '+lname,"!", "Welcomne to the Python program")
+print("Hello, ", fname+' '+lname,"!", "Welcome to the Python program")
